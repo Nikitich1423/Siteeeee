@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(255, 102, 0);
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.detailed {
+    color: rgb(0, 0, 0);
+    background-color: rgb(229, 255, 0);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+header img {
+    border-radius: 4px;
+}
+
+h1 {
+    color: rgba(255, 102, 0, 0.911);
+    background-color: white;
+    border: 5px solid rgba(255, 102, 0, 0.795);
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.footer {
+    border: 5px solid orange;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.nav {
+    color: rgb(0, 0, 0);
+    background-color: rgb(229, 255, 0);
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+   
+
+
+
+
+
+    
