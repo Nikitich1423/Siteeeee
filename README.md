@@ -1,5 +1,9 @@
 <html>
     <body>
+        <head>
+            <title>Fantastic Party</title>
+            <link rel="stylecheet" href="style.css"/>
+        </head>
         <header>
             <img id ="logo" src="/uploads/2020/12/logo_0_1607675596.svg" height="40px"/>
             <b>Внимание! Сезонные скидки 40% </b><a class="detailed" href="#discount">Подробнее</a>
